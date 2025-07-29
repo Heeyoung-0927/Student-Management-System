@@ -19,15 +19,6 @@ public class StudentManagementSystemApplication implements CommandLineRunner{
 	private StudentRepository studentRepository;
 	
 	public void run(String... args) throws Exception {
-		
-//		Student student1 = new Student("Heeyoung", "Shin", "heeyoung@gmail.com");
-//		studentRepository.save(student1);
-//		
-//		Student student2 = new Student("Heeseong", "Shin", "heeseong@gmail.com");
-//		studentRepository.save(student2);
-//		
-//		Student student3 = new Student("Mihyo", "Jang", "mihyo@gmail.com");
-//		studentRepository.save(student3);
 	}
 
 }
